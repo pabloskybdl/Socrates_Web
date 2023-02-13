@@ -1,0 +1,21 @@
+.opening {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr.border {
+    border-top: 1px solid #8A8070;
+}
+
+.nav-menu {
+    text-decoration: none;
+    margin: 8px;
+    color: black;
+    text-align: center;
+}
+
+.nav-menu:hover {
+    color: #E31F24;
+    text-decoration: none;
+}
