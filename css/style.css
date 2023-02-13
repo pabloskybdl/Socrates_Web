@@ -10,9 +10,8 @@ hr.border {
 
 .nav-menu {
     text-decoration: none;
-    margin: 8px;
+    margin: 30%;
     color: black;
-    text-align: center;
 }
 
 .nav-menu:hover {
